@@ -4,11 +4,10 @@
 [![](https://img.shields.io/badge/📖_How_to_use_DevExpress_Examples-e9f6fc?style=flat-square)](https://docs.devexpress.com/GeneralInformation/403183)
 [![](https://img.shields.io/badge/💬_Leave_Feedback-feecdd?style=flat-square)](#does-this-example-address-your-development-requirementsobjectives)
 <!-- default badges end -->
- 
 
-## Gantt for Web Forms - A simple example with editing capabilities
+# Gantt for Web Forms - A simple example with editing capabilities
 
- This example demonstrates how to create a [Gantt](https://docs.devexpress.com/AspNet/DevExpress.Web.ASPxGantt.ASPxGantt) control that supports data editing. The example uses runtime-generated data. 
+This example demonstrates how to create a [Gantt](https://docs.devexpress.com/AspNet/DevExpress.Web.ASPxGantt.ASPxGantt) control that supports data editing. The example uses runtime-generated data. 
  
 ## Files to Review
  
@@ -21,3 +20,4 @@
 
 (you will be redirected to DevExpress.com to submit your response)
 <!-- feedback end -->
+
