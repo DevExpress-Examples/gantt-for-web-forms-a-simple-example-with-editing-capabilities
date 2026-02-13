@@ -15,7 +15,7 @@
  * [Default.aspx](./CS/DXWebApplication/Default.aspx.cs)
  * [GanttDataProvider.cs](./CS/DXWebApplication/App_Data/GanttDataProvider.cs) ([GanttDataProvider.vb](./VB/DXWebApplication/App_Data/GanttDataProvider.vb))
 <!-- feedback -->
-## Does this example address your development requirements/objectives?
+## Does This Example Address Your Development Requirements/Objectives?
 
 [<img src="https://www.devexpress.com/support/examples/i/yes-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=gantt-for-web-forms-a-simple-example-with-editing-capabilities&~~~was_helpful=yes) [<img src="https://www.devexpress.com/support/examples/i/no-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=gantt-for-web-forms-a-simple-example-with-editing-capabilities&~~~was_helpful=no)
 
